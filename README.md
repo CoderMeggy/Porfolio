@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web designing and JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me pls email me at pmlynggabasa@gmail.com
-CHECK OUT MY PORTFOLIO HERE>>> https://mariel-gabasa.github.io/Mariel-Gabasa_Porfolio/home.html
+- CHECK OUT MY PORTFOLIO HERE>>> https://mariel-gabasa.github.io/Mariel-Gabasa_Porfolio/home.html
 
 <!---
 Mariel-Gabasa/Mariel-Gabasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
